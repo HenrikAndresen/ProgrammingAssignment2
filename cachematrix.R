@@ -1,5 +1,11 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Sometimes you want to do the same thing over and over again, then
+## it is useful to cahche results that hasn't changed from one iteration 
+## to another . Matrix inversing is computationally expensive, thus to have a
+## caching function pays off. That's what the following functions do: 
+## One cahces - the other one calculates the inverse if nescessary.
+
 
 ## Write a short comment describing this function
 # 1 If called without arguments, create an empty matrix x and intstantiate the
