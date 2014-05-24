@@ -1,3 +1,7 @@
+### Original text further down. 
+
+Here is my commit. The functions are in the file cachematrix.R
+
 ### Introduction
 
 This second programming assignment will require you to write an R
